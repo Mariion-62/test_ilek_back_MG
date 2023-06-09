@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est une bonne pratique pour réduire les émissions de gaz à effet de serre ?",
+    "answers": [
+      {"id": 1, "answer": "Utiliser les transports en commun", "isCorrect": true},
+      {"id": 2, "answer": "Laisser les lumières allumées en permanence", "isCorrect": false},
+      {"id": 3, "answer": "Prendre des douches plus longues", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Quelle est une bonne pratique pour économiser l'énergie à la maison ?",
+    "answers": [
+      {"id": 1, "answer": "Éteindre les appareils électroniques en veille", "isCorrect": true},
+      {"id": 2, "answer": "Laisser les fenêtres ouvertes en hiver", "isCorrect": false},
+      {"id": 3, "answer": "Utiliser des ampoules incandescentes", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Quelle est une bonne pratique pour réduire les déchets plastiques ?",
+    "answers": [
+      {"id": 1, "answer": "Utiliser des sacs réutilisables", "isCorrect": true},
+      {"id": 2, "answer": "Acheter des bouteilles en plastique à usage unique", "isCorrect": false},
+      {"id": 3, "answer": "Jeter les déchets plastiques dans la nature", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Quelle est une bonne pratique pour favoriser les énergies renouvelables ?",
+    "answers": [
+      {"id": 1, "answer": "Installer des panneaux solaires", "isCorrect": true},
+      {"id": 2, "answer": "Utiliser des générateurs diesel", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer les sources d'énergie renouvelables", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Quelle est une bonne pratique pour réduire la consommation d'eau ?",
+    "answers": [
+      {"id": 1, "answer": "Installer des pommeaux de douche à faible débit", "isCorrect": true},
+      {"id": 2, "answer": "Laisser le robinet ouvert en se brossant les dents", "isCorrect": false},
+      {"id": 3, "answer": "Utiliser un arroseur automatique pour le jardin", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Quelle est une bonne pratique pour encourager le recyclage ?",
+    "answers": [
+      {"id": 1, "answer": "Trier les déchets et les mettre dans les poubelles de recyclage", "isCorrect": true},
+      {"id": 2, "answer": "Brûler tous les déchets pour les éliminer", "isCorrect": false},
+      {"id": 3, "answer": "Jeter tous les déchets dans une seule poubelle", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Quelle est une bonne pratique pour favoriser l'agriculture durable ?",
+    "answers": [
+      {"id": 1, "answer": "Utiliser des engrais organiques", "isCorrect": true},
+      {"id": 2, "answer": "Utiliser massivement des pesticides chimiques", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer les bonnes pratiques agricoles", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Quelle est une bonne pratique pour réduire la consommation d'énergie dans les bâtiments ?",
+    "answers": [
+      {"id": 1, "answer": "Installer une bonne isolation pour réduire les pertes de chaleur", "isCorrect": true},
+      {"id": 2, "answer": "Maintenir les fenêtres ouvertes toute l'année", "isCorrect": false},
+      {"id": 3, "answer": "Utiliser uniquement des appareils électriques à haute consommation", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Quelle est une bonne pratique pour protéger la biodiversité ?",
+    "answers": [
+      {"id": 1, "answer": "Préserver les habitats naturels", "isCorrect": true},
+      {"id": 2, "answer": "Détruire les écosystèmes pour favoriser le développement urbain", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer l'importance de la biodiversité", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Quelle est une bonne pratique pour encourager une alimentation durable ?",
+    "answers": [
+      {"id": 1, "answer": "Privilégier les aliments locaux et de saison", "isCorrect": true},
+      {"id": 2, "answer": "Consommer uniquement des produits importés de loin", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer l'origine des aliments", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Quelle est une bonne pratique pour réduire les émissions liées au transport ?",
+    "answers": [
+      {"id": 1, "answer": "Utiliser des véhicules électriques ou partager les trajets en covoiturage", "isCorrect": true},
+      {"id": 2, "answer": "Utiliser des véhicules diesel sans filtre", "isCorrect": false},
+      {"id": 3, "answer": "Prendre systématiquement l'avion pour tous les déplacements", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Quelle est une bonne pratique pour encourager la gestion durable des ressources en eau ?",
+    "answers": [
+      {"id": 1, "answer": "Recycler et réutiliser l'eau", "isCorrect": true},
+      {"id": 2, "answer": "Laisser les robinets ouverts en permanence", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer les problèmes de pénurie d'eau", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Quelle est une bonne pratique pour lutter contre la déforestation ?",
+    "answers": [
+      {"id": 1, "answer": "Privilégier les produits issus de sources durables et de la reforestation", "isCorrect": true},
+      {"id": 2, "answer": "Encourager l'abattage massif des arbres sans replantation", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer l'impact de la déforestation sur l'environnement", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Quelle est une bonne pratique pour réduire les émissions de gaz à effet de serre dans l'industrie ?",
+    "answers": [
+      {"id": 1, "answer": "Adopter des technologies propres et économes en énergie", "isCorrect": true},
+      {"id": 2, "answer": "Augmenter délibérément les émissions de gaz à effet de serre", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer les conséquences environnementales de l'industrie", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Quelle est une bonne pratique pour favoriser l'éducation à l'environnement ?",
+    "answers": [
+      {"id": 1, "answer": "Intégrer des programmes d'éducation à l'environnement dans les écoles", "isCorrect": true},
+      {"id": 2, "answer": "Supprimer toute formation sur les enjeux environnementaux", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer l'importance de sensibiliser à l'environnement", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Quelle est une bonne pratique pour encourager la recherche et l'innovation verte ?",
+    "answers": [
+      {"id": 1, "answer": "Investir dans la recherche sur les technologies vertes", "isCorrect": true},
+      {"id": 2, "answer": "Cesser tout financement des initiatives écologiques", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer l'importance de l'innovation pour l'environnement", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Quelle est une bonne pratique pour réduire les émissions de méthane dans l'agriculture ?",
+    "answers": [
+      {"id": 1, "answer": "Mettre en place des pratiques de gestion des déchets animaux", "isCorrect": true},
+      {"id": 2, "answer": "Ignorer les émissions de méthane dans l'agriculture", "isCorrect": false},
+      {"id": 3, "answer": "Encourager les fuites de méthane dans les exploitations agricoles", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Quelle est une bonne pratique pour promouvoir les transports durables ?",
+    "answers": [
+      {"id": 1, "answer": "Encourager l'utilisation des vélos et des transports en commun", "isCorrect": true},
+      {"id": 2, "answer": "Promouvoir l'usage exclusif des voitures individuelles", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer les alternatives de transport durable", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Quelle est une bonne pratique pour préserver les écosystèmes marins ?",
+    "answers": [
+      {"id": 1, "answer": "Protéger les zones marines et encourager la pêche durable", "isCorrect": true},
+      {"id": 2, "answer": "Encourager la pollution des océans", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer les conséquences de la surpêche et de la pollution", "isCorrect": false}
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Quelle est une bonne pratique pour réduire l'utilisation des plastiques à usage unique ?",
+    "answers": [
+      {"id": 1, "answer": "Privilégier les produits réutilisables et les alternatives au plastique", "isCorrect": true},
+      {"id": 2, "answer": "Utiliser massivement des produits plastiques à usage unique", "isCorrect": false},
+      {"id": 3, "answer": "Ignorer les problématiques liées aux plastiques à usage unique", "isCorrect": false}
+    ]
+  }
+]
